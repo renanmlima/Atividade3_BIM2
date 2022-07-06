@@ -8,6 +8,15 @@ namespace Atividade3_BIM2
 {
     internal class Program
     {
+            /* |====================================================| */
+            /* |* AUTOR: RENAN LIMA | RA: 6321300 ******************| */
+            /* |* DATA DE CRIAÇÃO: 04.JUL.2022 *********************| */
+            /* |* PROVA FECHAMENTO DE NOTA DO 2 BIMESTRE ***********| */
+            /* |* MATÉRIA: LÓGICA DE PROGRAMAÇÃO *******************| */
+            /* |* SEMESTRE: 1 | INSTITUIÇÃO: UNIFAAT ATIBAIA *******| */
+            /* |* CURSO: ANÁLISE E DESENVOLVIMENTO DE SISTEMAS *****| */
+            /* |====================================================| */
+        
         static void Main(string[] args)
         {
 
